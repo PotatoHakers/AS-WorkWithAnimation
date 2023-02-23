@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkWithAnimation</string>
+    <string name="fio">Гержа Александр Геннадьевич 20ИТ-1</string>
+    <string name="buttonName">Анимация</string>
+</resources>
